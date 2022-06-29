@@ -1,0 +1,4 @@
+&Fermi
+outdir='./tmp_30'
+prefix='TiC'
+&end
